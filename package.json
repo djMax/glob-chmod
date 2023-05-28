@@ -1,0 +1,14 @@
+{
+  "name": "glob-chmod",
+  "version": "1.0.0",
+  "description": "Easily chmod a glob pattern - useful for Typescript not preserving file attributes on builds",
+  "main": "./index.js",
+  "repository": "git@github.com:djMax/glob-chmod.git",
+  "author": "Max Metral <developers@pyralis.com>",
+  "license": "MIT",
+  "private": false,
+  "bin": "./index.js",
+  "dependencies": {
+    "glob": "^10.2.6"
+  }
+}
