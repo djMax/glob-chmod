@@ -1,5 +1,5 @@
 # glob-chmod
-Easily chmod a glob pattern - useful for Typescript not preserving file attributes on builds
+Easily chmod a glob pattern - useful for Typescript not preserving file attributes on builds. Can be used with npx/yarn dlx
 
 ```
 npx glob-chmod 755 build/bin/*
